@@ -1,0 +1,12 @@
+/* CSS Document */
+#search{
+	width:600px;
+	height:400px;
+	background-color:#c2c2c2;
+	margin-left:23px;
+	margin-top:25px;
+	float:left;
+	border-radius:3px;
+	display:inline-block;
+	border:1px solid #E1E8ED;	
+}

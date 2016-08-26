@@ -1,0 +1,70 @@
+/* CSS Document */
+
+.message-box{
+	width:510px;
+	height:auto;
+	background-color:#06F;	
+}
+
+.message-friend{
+	width:510px;
+	height:auto;
+	float:left;	
+}
+
+.friend_image{
+	float:left;	
+}
+.friend_image img{
+	margin-top:5px;
+	margin-left:10px;
+	border:1px solid #c2c2c2;
+	border-radius:10px;
+}
+.fnew-message{
+	background-color:#999;
+	width:auto;
+	max-width:300px;
+	height:auto;
+	margin-left:10px;
+	padding-left:10px;
+	padding-right:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+	float:left;	
+	border:1px solid #c2c2c2;
+	border-radius:10px;
+}
+.fmessage{
+	color:black;	
+}
+
+.message-own{
+	width:510px;
+	height:100px;
+	float:right;
+	margin-top:4px;		
+}
+.replay-message{
+	background-color:#390;
+	width:auto;
+	max-width:300px;
+	height:auto;
+	margin-left:390px;
+	padding-left:10px;
+	padding-right:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+	float:left;	
+	border:1px solid #c2c2c2;
+	border-radius:10px;
+}
+.re_image{
+	float:right;
+}
+.re_image img{
+	margin-top:0px;
+	margin-left:10px;
+	border:1px solid #c2c2c2;
+	border-radius:10px;
+}

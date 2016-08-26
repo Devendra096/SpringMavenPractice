@@ -1,0 +1,144 @@
+body{
+	/*background-color:#06C;*/
+	width:100%;
+	height:650px;
+	margin:auto;	
+}
+
+#wrapper{
+	/*background-color:#C06;*/
+	width:100%;
+	height:650px;
+	margin:auto;
+}
+
+#header{
+	/*background-color:#F00;*/
+	box-sizing:border-box;
+	width:100%;
+	height:40px;
+	margin:auto;
+}
+#headertext{
+	margin-left:375px;
+	padding-top:10px;
+	font-size:18px;
+	color:#66757F;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#forget{
+	/*backgr;ound-color:#FF0;*/
+	width:100%;
+	height:511px;
+	margin:auto;
+}
+
+#form{
+	/*background-color:#999;*/
+	width:590px;
+	height:307px;
+	float:!important;	
+	margin:auto;
+}
+#headtitle{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:28px;	
+	padding-top:36px;
+	color:#66757F;
+}
+#form p{
+	font-family:"Arial Black", Gadget, sans-serif;
+	padding-top:36px;
+}
+
+.form-text{
+	width: 300px;
+	padding: 7px 7px 5px;
+	border-radius: 3px;
+	line-height: 20px;
+	border: 1px solid #CCD6DD;
+	outline: 0px none;
+	font-size: 14px;
+	margin: 5px 10px 5px 0px;
+		
+}
+.form-text:hover{
+	border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+.button{
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	padding: 9px 18px;
+	border: 1px solid #3B94D9;
+	border-radius: 3px;
+	background-color: #50A5E6;
+	outline: 0px none;
+	display: inline-block;
+}
+
+.reset{
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	padding: 9px 18px;
+	margin-top:24px;
+	margin-left:120px;
+	border: 1px solid #3B94D9;
+	border-radius: 3px;
+	background-color: #50A5E6;
+	outline: 0px none;
+	display: inline-block;
+	cursor:auto;
+}
+.Form input[type="submit"] {
+    display: block;
+    margin-top: 25px;
+}
+
+/* footer */
+
+.footer{
+	background-color: #CCF;
+	height:85px;
+	width:100%;
+	margin:auto;
+	}
+#logoText{
+	width:100%;
+	height:55px;
+	margin:auto;
+}
+#text{
+	float:right;
+	padding-right:225px;
+	padding-top:10px;
+	font-size:23px;
+	font-family:Baskerville Old Face;	
+}
+#menubar{
+	margin:auto;
+	width:1350px;
+	height:33px;
+}
+#menu{
+	float:right;
+	padding-right:220px;
+	padding-top:2px;
+}
+#move{
+	padding-left:10px;	
+}
+#menu a{
+	text-decoration:none;	
+}
+#menu a:hover{
+	color:brown;	
+}
+.hoverbt:hover{
+	background-color:#0F90F3;	
+}

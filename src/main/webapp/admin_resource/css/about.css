@@ -1,0 +1,215 @@
+/* CSS Document */
+
+body{
+	height:650px;
+	width:800px;
+	margin:0px;
+}
+#wrapper{
+	height:650px;
+	width:800px;
+	margin:0px;
+}
+#header{
+	height:40px;
+	width:800px;
+	margin:auto;
+	background-color:#EEEEFE;
+	border-bottom:2px solid #E7D7D7;
+	}
+#headertext{
+	margin-left:50px;
+	width:100px;
+	padding-top:10px;
+	font-size:18px;
+	color:#66757F;
+	font-family:Verdana, Geneva, sans-serif;
+	float:left;
+}
+.nav-menu-top{
+	float:right;	
+}
+.nav-menu-top ul{
+	list-style-type:none;
+	margin-right:190px;	
+}
+.nav-menu-top ul li{
+	float:left;
+	margin-right:30px;
+	height:30px;
+	margin-top:-14px;
+	width:50px;
+	text-align:center;
+	
+}
+.list-style{
+	padding-top:10px;	
+}
+.list-style:hover{
+	border-bottom:2px solid red;
+	
+}
+
+.nav-menu-top ul li a{
+	text-decoration:none;
+	color:grey;
+	font-size:15px;
+}
+.nav-menu-top ul li a:hover{
+	color:red;
+	font-weight:500;
+}
+
+
+#content{
+	height:522px;
+	width:800px;
+	margin:auto;
+	
+	}
+#leftImage{
+	height:522px;
+	width:675px;
+	margin:auto;
+	float:left;
+	margin-top:4px;
+	}
+#rightForm{
+	height:522px;
+	width:675px;
+	margin:auto;
+	float:right;
+	}
+#leftsideImage{
+	background: #F1F1F1 none repeat scroll 0% 0%;
+	height:472px;
+	width:475px;
+	margin:auto;
+	float:right;
+	}
+#imageTalk img{
+	background-repeat:no-repeat;
+	height:290px;
+	width:475px;
+	margin:auto;
+}
+#textField{
+	padding-top:30px;
+	padding-left:10px;
+	padding-right:5px;
+	height:182px;
+	width:475px;
+	margin:auto;
+	font-family:Cooper Std Black;
+}
+.textdy{
+	height:auto;
+	width:460px;	
+}
+.textdb{
+	word-wrap:break-word;
+	overflow:hidden;	
+}
+#rightsideForm{
+	height:472px;
+	width:400px;
+	margin:auto;
+	float:right:75px;
+	}
+#logoimage{
+	height:100px;
+	width:400px;
+	margin:auto;
+	
+	}
+	
+#logo{
+	background-repeat: no-repeat;
+}
+#logo img{
+	margin-top:50px;
+	margin-left:100px;	
+}
+#sideForm{
+	height:372px;
+	width:400px;
+	margin:auto;
+	}
+/* footer */
+
+#footer{
+	background-color: #CCF;
+	height:88px;
+	width:800px;
+	margin:auto;
+	}
+#logoText{
+	width:800px;
+	height:55px;
+	margin:auto;
+}
+#text{
+	float:right;
+	padding-right:225px;
+	padding-top:16px;
+	font-size:23px;
+	font-family:Baskerville Old Face;	
+}
+#menubar{
+	margin:auto;
+	width:800px;
+	height:33px;
+}
+#menu{
+	float:right;
+	padding-right:220px;
+	padding-top:10px;
+}
+#move{
+	padding-left:10px;	
+}
+#menu a{
+	text-decoration:none;	
+}
+#menu a:hover{
+	color:brown;	
+}
+/* footer end */
+	
+#forget{
+padding-left:40px;	
+}
+#signup{
+padding-left:40px;
+padding-top:60px;
+}
+.logo{
+	float:left;	
+}
+.logo img{
+	margin-top:5px;
+	margin-left:40px;
+}
+.about_text{
+	width:500px;
+	height:400px;
+	background: url(../../../resource/image/talk.png));
+	margin-left:150px;	
+}
+.about_text p{
+	margin:10px;
+	padding-top:10px;	
+
+}
+#content h1{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin-left:40px;
+}
+.btn_edit{
+	  background: #00F none repeat scroll 0% 0%;
+	height:40px;
+	width: 95px;
+	margin-top:-10px;
+	border: 1px solid #fff;
+	border-radius:3px;	
+}
